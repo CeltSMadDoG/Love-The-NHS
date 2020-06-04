@@ -1,0 +1,25 @@
+{
+  "fitbit": {
+    "appUUID": "56e2957e-a283-4b99-8514-536c95e151fc",
+    "appType": "clockface",
+    "appDisplayName": "NHS Love",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "NHS Love"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

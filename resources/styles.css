@@ -1,0 +1,85 @@
+.background {
+  viewport-fill: white;
+}
+#floors {
+  font-size: 24;
+  font-family: System-Bold;
+  text-length: 9;
+  text-anchor: middle;
+  x: 316;
+  y: 200;
+  fill: black;
+  
+}
+
+#move {
+  font-size: 24;
+  font-family: System-Bold;
+  text-length: 9;
+  text-anchor: middle;
+  x: 29;
+  y: 200;
+  fill: black;
+  
+}
+
+#dist {
+  font-size: 24;
+  font-family: System-Bold;
+  text-length: 9;
+  text-anchor: middle;
+  x: 30;
+  y: 65;
+  fill: black;
+  
+}
+
+#steps {
+  font-size: 24;
+  font-family: System-Bold;
+  text-length: 9;
+  text-anchor: middle;
+  x: 314;
+  y: 64;
+  fill: black;  
+}
+
+#hrm {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 9;
+  text-anchor: middle;
+  x: 57%;
+  y: 50%-65;
+  fill: white;
+}
+
+#date {
+  font-size: 27;
+  font-family: System-Bold;
+  text-length: 6;
+  text-anchor: middle;
+  x: 71%;
+  y: 80%-58;
+  fill: black;
+}
+
+#day {
+  font-size: 27;
+  font-family: System-Bold;
+  text-length: 4;
+  text-anchor: middle;
+  x: 71%;
+  y: 70%-58;
+  fill: black;
+
+}
+#time {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 36%;
+  y: 50%+18;
+  fill: black;
+}

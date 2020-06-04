@@ -1,0 +1,27 @@
+<svg class="background">
+  
+  <image x="-7" y="-10"  width = "350" height = "260"href="fitlovensh.png" />
+  
+  
+  
+  <image x="303" y="206" width="32" height="32" href="icons/floorsOpen.png" />  
+  <image x="303" y="12" width="32" height="32" href="icons/stepsOpen.png" />
+  <image x="12" y="12" width="32" height="32" href="icons/distOpen.png" /> 
+  <image x="12" y="206" width="32" height="32" href="icons/amOpen.png" /> 
+  
+  
+    
+  
+  <text id="floors" />
+  <text id="steps" />
+  <text id="dist" />
+  <text id="hrm" />
+  <text id="move" />
+  
+  <text id="date" />
+  <text id="day" />
+  <text id="time" />
+  
+  
+  
+</svg>
