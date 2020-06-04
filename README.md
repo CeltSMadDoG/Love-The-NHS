@@ -2,4 +2,4 @@
 My Love the NHS watch face - Fitbit Ionic
 
 *[Fitbit Galler] (https://gallery.fitbit.com/details/56e2957e-a283-4b99-8514-536c95e151fc/)
-* [Fitbit CLI](https://dev.fitbit.com/build/guides/command-line-interface/)
+* [Fitbit Gallery](https://dev.fitbit.com/build/guides/command-line-interface/)
